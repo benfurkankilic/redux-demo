@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  padding-top: 60px;
+}
+
+.TodosContainer {
+  display: flex;
+  margin-top: 60px;
+  flex-direction: column;
 }
 
 .App-logo {
